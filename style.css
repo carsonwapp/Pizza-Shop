@@ -1,0 +1,18 @@
+body {
+  background-color: red;
+}
+h1 {
+    color: white;
+    font-size: 24px;
+    font-family: Arial, Helvetica, Sans-serif;
+}
+
+.header {
+  background-color: black;
+  border: 1px solid black;
+  padding: 10px;
+}
+
+.footer {
+  background-color: green;
+}
